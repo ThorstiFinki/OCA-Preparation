@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e15b197-417c-4d3e-823e-79af0ae90507" name="Changes" comment="Erster Test" />
+    <list default="true" id="5e15b197-417c-4d3e-823e-79af0ae90507" name="Changes" comment="Erster Test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Example.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/center.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/center.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +44,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "run.code.analysis.last.selected.profile": "pProject Default"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -52,6 +57,17 @@
     <configuration name="center" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="center" />
       <module name="OCA_preparation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
